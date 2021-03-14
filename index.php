@@ -7,6 +7,9 @@
     <title>coba git remote</title>
 </head>
 <body>
-    
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>
 </body>
 </html>
